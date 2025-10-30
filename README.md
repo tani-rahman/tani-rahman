@@ -4,8 +4,8 @@
 
 ### 👋 Hi! I'm **Tani Rahman**
 #### 💻 Full-Stack Web Developer | WordPress Expert | AI Integration Enthusiast  
-📍 **Location:** Dhaka, Bangladesh  
-✉️ **Email:** [tani.rahman.dev@gmail.com]
+📍 **Location:** Chattogram, Bangladesh  
+✉️ **Email:** [tanimahinurrahman@gmail.com]
 
 ---
 
@@ -37,8 +37,8 @@ I love solving real-world problems through code, optimizing performance, and ble
 ---
 
 #### 🌐 Social Links
-- 💼 [LinkedIn](https://www.linkedin.com/in/tani-rahman)
-- 🐙 [GitHub](https://github.com/Tani-Rahman)
+- 💼 [LinkedIn](https://www.linkedin.com/in/mahinur-rahman-tani-441a12328)
+- 🐙 [GitHub](https://github.com/tani-rahman)
 
 ---
 
