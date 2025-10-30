@@ -66,7 +66,7 @@ I love solving real-world problems through code, optimizing performance, and ble
 
 🔥 Main Tech Stack: React, TailwindCSS, MongoDB, OpenAI API, Firebase
 
-#### ✅ [Project 3: Plant Management App](https://github.com/Tani-Rahman/Plant-Management-App)
+#### ✅ [Project 3: Plant Management App](https://plant-track-app-48294.web.app/plants)
 
 **Description:**  
 🌱 A modern app for tracking plant health, watering schedules, and growth — built for plant lovers with real-time updates.
