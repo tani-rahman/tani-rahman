@@ -1,16 +1,74 @@
-## Hi there 👋
+<!-- Banner Image -->
+![banner](/Banner.png)
 
-<!--
-**tani-rahman/tani-rahman** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+### 👋 Hi! I'm **Tani Rahman**
+#### 💻 Full-Stack Web Developer | WordPress Expert | AI Integration Enthusiast  
+📍 **Location:** Dhaka, Bangladesh  
+✉️ **Email:** [tani.rahman.dev@gmail.com]
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+#### 👇 About Me
+I’m a dedicated **Full-Stack Web Developer** passionate about building fast, scalable, and user-friendly digital experiences.  
+My expertise spans from crafting clean, responsive **frontend interfaces** to developing secure, efficient **backend systems** using **Node.js** and **MongoDB**.  
+I also enjoy experimenting with **AI-powered integrations**, bringing automation and intelligence into modern web applications.  
+
+I love solving real-world problems through code, optimizing performance, and blending creativity with technology to deliver meaningful user experiences.
+
+---
+
+#### ⚡️ Currently Working On
+- 🚀 Developing an **AI-Powered Website Performance Optimizer**
+- 🍳 Enhancing a **Smart Recipe Generator** using OpenAI and MongoDB
+- 💡 Exploring **Next.js**, **React Hooks**, and **Machine Learning integrations**
+
+---
+
+|       Skills Overview        | Technologies                                                                                                                                                                                                                          |
+|-----------------------|---------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Languages**         | ![JavaScript](https://img.shields.io/badge/-JavaScript-333333?style=flat&logo=javascript) |
+| **Frontend Technologies** | ![HTML5](https://img.shields.io/badge/-HTML5-333333?style=flat&logo=html5) ![CSS3](https://img.shields.io/badge/-CSS3-333333?style=flat&logo=css3) ![TailwindCSS](https://img.shields.io/badge/TailwindCSS-333333?style=flat&logo=tailwindcss) ![React](https://img.shields.io/badge/-React-333333?style=flat&logo=react) ![Next.js](https://img.shields.io/badge/-Next.js-333333?style=flat&logo=next.js) |
+| **Back-End Development** | ![Node.js](https://img.shields.io/badge/-Node.js-333333?style=flat&logo=node.js) ![Express.js](https://img.shields.io/badge/-Express.js-333333?style=flat&logo=express) |
+| **Database**          | ![MongoDB](https://img.shields.io/badge/-MongoDB-333333?style=flat&logo=mongodb) ![MySQL](https://img.shields.io/badge/-MySQL-333333?style=flat&logo=mysql) |
+| **AI & Machine Learning** | ![AI Integration](https://img.shields.io/badge/-AI%20Integration-333333?style=flat&logo=openai) ![Machine Learning](https://img.shields.io/badge/-Machine%20Learning-333333?style=flat&logo=tensorflow) |
+| **Tools & Platforms** | ![Git](https://img.shields.io/badge/-Git-333333?style=flat&logo=git) ![GitHub](https://img.shields.io/badge/-GitHub-333333?style=flat&logo=github) ![Firebase](https://img.shields.io/badge/-Firebase-333333?style=flat&logo=firebase) ![JWT](https://img.shields.io/badge/-JWT-333333?style=flat&logo=json-web-tokens) ![VS Code](https://img.shields.io/badge/-VS%20Code-333333?style=flat&logo=visual-studio-code) |
+
+---
+
+#### 🌐 Social Links
+- 💼 [LinkedIn](https://www.linkedin.com/in/tani-rahman)
+- 🐙 [GitHub](https://github.com/Tani-Rahman)
+
+---
+
+## GitHub Stats
+
+| Top Languages | GitHub Stats |
+|:---:|:---:|
+| ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tani-Rahman&theme=transparent&hide_border=true&include_all_commits=true&count_private=true&layout=compact) | ![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tani-Rahman&theme=transparent&hide_border=true&include_all_commits=true&count_private=false) |
+
+---
+
+### 📌 Pinned Repositories
+
+#### ✅ [Project 1: AI Website Optimizer](https://github.com/Tani-Rahman/AI-Website-Optimizer)
+
+**Description:**  
+🌟 A smart AI-driven performance optimizer that analyzes website speed, SEO, and code efficiency — then provides actionable improvements.
+
+🔥 Main Tech Stack: React, TailwindCSS, OpenAI API, Node.js, Express
+
+#### ✅ [Project 2: Smart Recipe Generator](https://github.com/Tani-Rahman/Smart-Recipe-Generator)
+
+**Description:**  
+🍽️ A full-stack recipe app where users upload ingredients or images, and AI generates recipes with health insights.
+
+🔥 Main Tech Stack: React, TailwindCSS, MongoDB, OpenAI API, Firebase
+
+#### ✅ [Project 3: Plant Management App](https://github.com/Tani-Rahman/Plant-Management-App)
+
+**Description:**  
+🌱 A modern app for tracking plant health, watering schedules, and growth — built for plant lovers with real-time updates.
+
+🔥 Main Tech Stack: React, Node.js, Express, MongoDB, Firebase
