@@ -51,7 +51,7 @@ I love solving real-world problems through code, optimizing performance, and ble
 ---
 
 ### 📌 Pinned Repositories
-#### ✅ [Project 1: Smart Recipe Generator](https://github.com/Tani-Rahman/Smart-Recipe-Generator)
+#### ✅ [Project 1: Smart Recipe Generator](https://delightful-custard-ef08f6.netlify.app/)
 
 **Description:**  
 🍽️ A full-stack recipe app where users upload ingredients or images, and AI generates recipes with health insights (still working).
