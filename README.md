@@ -58,7 +58,7 @@ I love solving real-world problems through code, optimizing performance, and ble
 
 🔥 Main Tech Stack: React, TailwindCSS, MongoDB, OpenAI API, Firebase
 
-#### ✅ [Project 2: space of Mars solution](https://remav-cae9a.web.app/trash)
+#### ✅ [Project 2: space of Mars solution](https://remav-cae9a.web.app)
 
 **Description:**  
 🌟 A NASA-space Challenge app.
