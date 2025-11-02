@@ -51,20 +51,18 @@ I love solving real-world problems through code, optimizing performance, and ble
 ---
 
 ### 📌 Pinned Repositories
-
-#### ✅ [Project 1: AI Website Optimizer](https://github.com/Tani-Rahman/AI-Website-Optimizer)
-
-**Description:**  
-🌟 A smart AI-driven performance optimizer that analyzes website speed, SEO, and code efficiency — then provides actionable improvements.
-
-🔥 Main Tech Stack: React, TailwindCSS, OpenAI API, Node.js, Express
-
-#### ✅ [Project 2: Smart Recipe Generator](https://github.com/Tani-Rahman/Smart-Recipe-Generator)
+#### ✅ [Project 1: Smart Recipe Generator](https://github.com/Tani-Rahman/Smart-Recipe-Generator)
 
 **Description:**  
-🍽️ A full-stack recipe app where users upload ingredients or images, and AI generates recipes with health insights.
+🍽️ A full-stack recipe app where users upload ingredients or images, and AI generates recipes with health insights (still working).
 
 🔥 Main Tech Stack: React, TailwindCSS, MongoDB, OpenAI API, Firebase
+
+#### ✅ [Project 2: space of Mars solution](https://remav-cae9a.web.app/trash)
+
+**Description:**  
+🌟 A NASA-space Challenge app.
+🔥 Main Tech Stack: React, TailwindCSS, Node.js, Express
 
 #### ✅ [Project 3: Plant Management App](https://plant-care-app-8d372.web.app/)
 
