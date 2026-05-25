@@ -2,14 +2,14 @@
 ![banner](/Banner.png)
 
 
-### 👋 Hi! I'm **Tani Rahman**
-#### 💻 Full-Stack Web Developer | WordPress Expert | AI Integration Enthusiast  
+### Hi! I'm **Tani Rahman**
+####  Full-Stack Web Developer | WordPress Expert | AI Integration Enthusiast  
 📍 **Location:** Chattogram, Bangladesh  
-✉️ **Email:** [tanimahinurrahman@gmail.com]
+**Email:** [tanimahinurrahman@gmail.com]
 
 ---
 
-#### 👇 About Me
+####  About Me
 I’m a dedicated **Full-Stack Web Developer** passionate about building fast, scalable, and user-friendly digital experiences.  
 My expertise spans from crafting clean, responsive **frontend interfaces** to developing secure, efficient **backend systems** using **Node.js** and **MongoDB**.  
 I also enjoy experimenting with **AI-powered integrations**, bringing automation and intelligence into modern web applications.  
@@ -18,10 +18,10 @@ I love solving real-world problems through code, optimizing performance, and ble
 
 ---
 
-#### ⚡️ Currently Working On
-- 🚀 Developing an **AI-Powered Website Performance Optimizer**
-- 🍳 Enhancing a **Smart Recipe Generator** using OpenAI and MongoDB
-- 💡 Exploring **Next.js**, **React Hooks**, and **Machine Learning integrations**
+####  Currently Working On
+-  Developing an **AI-Powered Website Performance Optimizer**
+-  Enhancing a **Smart Recipe Generator** using OpenAI and MongoDB
+-  Exploring **Next.js**, **React Hooks**, and **Machine Learning integrations**
 
 ---
 
@@ -37,7 +37,7 @@ I love solving real-world problems through code, optimizing performance, and ble
 ---
 
 #### 🌐 Social Links
-- 💼 [LinkedIn](https://www.linkedin.com/in/mahinur-rahman-tani-441a12328)
+- 💼[LinkedIn](https://www.linkedin.com/in/mahinur-rahman-tani-441a12328)
 - 🐙 [GitHub](https://github.com/tani-rahman)
 
 ---
@@ -50,23 +50,22 @@ I love solving real-world problems through code, optimizing performance, and ble
 
 ---
 
-### 📌 Pinned Repositories
-#### ✅ [Project 1: Smart Recipe Generator](https://delightful-custard-ef08f6.netlify.app/)
+###  Pinned Repositories
+####  [Project 1: Smart Recipe Generator](https://delightful-custard-ef08f6.netlify.app/)
 
 **Description:**  
-🍽️ A full-stack recipe app where users upload ingredients or images, and AI generates recipes with health insights (still working).
+ A full-stack recipe app where users upload ingredients or images, and AI generates recipes with health insights (still working).
 
-🔥 Main Tech Stack: React, TailwindCSS, MongoDB, OpenAI API, Firebase
+ Main Tech Stack: React, TailwindCSS, MongoDB, OpenAI API, Firebase
 
-#### ✅ [Project 2: space of Mars solution](https://remav-cae9a.web.app)
-
-**Description:**  
-🌟 A NASA-space Challenge app.
-🔥 Main Tech Stack: React, TailwindCSS, Node.js, Express
-
-#### ✅ [Project 3: Plant Management App](https://plant-care-app-8d372.web.app/)
+#### [Project 2: space of Mars solution](https://remav-cae9a.web.app)
 
 **Description:**  
-🌱 A modern app for tracking plant health, watering schedules, and growth — built for plant lovers with real-time updates.
+A NASA-space Challenge app. Main Tech Stack: React, TailwindCSS, Node.js, Express
 
-🔥 Main Tech Stack: React, Node.js, Express, MongoDB, Firebase
+#### [Project 3: Plant Management App](https://plant-care-app-8d372.web.app/)
+
+**Description:**  
+ A modern app for tracking plant health, watering schedules, and growth — built for plant lovers with real-time updates.
+
+ Main Tech Stack: React, Node.js, Express, MongoDB, Firebase
