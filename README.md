@@ -4,8 +4,8 @@
 
 ### Hi! I'm **Tani Rahman**
 ####  Full-Stack Web Developer | WordPress Expert | AI Integration Enthusiast  
-📍 **Location:** Chattogram, Bangladesh  
-**Email:** [tanimahinurrahman@gmail.com]
+ **Location:** Chattogram, Bangladesh  
+ **Email:** [tanimahinurrahman@gmail.com]
 
 ---
 
@@ -36,9 +36,9 @@ I love solving real-world problems through code, optimizing performance, and ble
 
 ---
 
-#### 🌐 Social Links
-- 💼[LinkedIn](https://www.linkedin.com/in/mahinur-rahman-tani-441a12328)
-- 🐙 [GitHub](https://github.com/tani-rahman)
+#### Social Links
+- [LinkedIn](https://www.linkedin.com/in/mahinur-rahman-tani-441a12328)
+- [GitHub](https://github.com/tani-rahman)
 
 ---
 
@@ -50,8 +50,8 @@ I love solving real-world problems through code, optimizing performance, and ble
 
 ---
 
-###  Pinned Repositories
-####  [Project 1: Smart Recipe Generator](https://delightful-custard-ef08f6.netlify.app/)
+### Pinned Repositories
+#### [Project 1: Smart Recipe Generator](https://delightful-custard-ef08f6.netlify.app/)
 
 **Description:**  
  A full-stack recipe app where users upload ingredients or images, and AI generates recipes with health insights (still working).
